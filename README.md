@@ -6,7 +6,7 @@ Simple program that tabulates data and generates a graph between the designing (
 
 ## Getting Started
 
-Dependencies
+### Dependencies
 Windows OS is currently supported. Linux and Mac OS compatibility and functionality may vary and not perform as intended.
 
 ### Execution
