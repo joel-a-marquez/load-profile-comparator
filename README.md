@@ -11,7 +11,7 @@ Windows OS is currently supported. Linux and Mac OS compatibility and functional
 
 ### Execution
 
-Download the .exe file and open the file. Windows OS will prompt a warning that it is protected by the PC since the program does not contain “signed code”. Select **More Info**, then select **Click Anyway**. 
+Download the **.exe** file under the **Assets** foler and open the file. Windows OS will prompt a warning that it is protected by the PC since the program does not contain “signed code”. Select **More Info**, then select **Click Anyway**. 
 
 ![More_info](./more_info.png)
 
@@ -75,6 +75,20 @@ Click the “Generate Button”. The two plots will be displayed with a graph in
     * Fixed Window (Not resizeable)
     * Add link to software page --> How To and User Manual
     * Rename Graph Window Title
+
+**Official Release v1.1**
+
+- Code Improvements:
+    * Code is cleaned up
+
+- Functionality Improvements:
+    * Added hours recorded on the system load profile
+    * Added hour deficit/gain on selected data
+    * Fixed link to direct to this Github repository
+    * Changed error warning to "File(s) is missing!"
+
+- UI Improvements:
+    * Selected datapoint is highlighted on the tables in the main window when point is selected on graph.
 
 ## License
 This project is licensed under the GNU General Public License - see the LICENSE.md file for details.
