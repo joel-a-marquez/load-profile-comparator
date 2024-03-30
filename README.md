@@ -33,7 +33,7 @@ Click the “Generate Button”. The two plots will be displayed with a graph in
 
 **Alpha v2.0**
 - Functionality Improvements:
-    * Hid terminal window.
+    * Hide terminal window.
     * Used Matplotlib backend for plot generation.
     * Support for .csv files
     * Select datapoint on graph (visually drawn in a vertical line)
@@ -41,7 +41,7 @@ Click the “Generate Button”. The two plots will be displayed with a graph in
 **Alpha v2.1**
 
 - Functionality Improvements:
-    * Displayed selected datapoints for baseline and system.
+    * Displayed selected data points for baseline and system.
 
 **Alpha v3.0**
 
@@ -70,25 +70,25 @@ Click the “Generate Button”. The two plots will be displayed with a graph in
     * Warning --> **Only CSV is currently supported**.
 
 - UI Improvements:
-    * Move Generate to the Right
-    * Add App Icon
-    * Fixed Window (Not resizeable)
+    * Move Generate to the Right.
+    * Add App Icon.
+    * Fixed Window (Not resizeable).
     * Add link to software page --> How To and User Manual
-    * Rename Graph Window Title
+    * Rename Graph Window Title.
 
 **Official Release v1.1**
 
 - Code Improvements:
-    * Code is cleaned up
+    * Code is cleaned up.
 
 - Functionality Improvements:
-    * Added hours recorded on the system load profile
-    * Added hour deficit/gain on selected data
-    * Fixed link to direct to this Github repository
+    * Added hours recorded on the system load profile.
+    * Added hour deficit/gain on selected data.
+    * Fixed link to direct to this Github repository.
     * Changed error warning to "File(s) is missing!"
 
 - UI Improvements:
-    * Selected datapoint is highlighted on the tables in the main window when point is selected on graph.
+    * Selected data point is highlighted on the tables in the main window when a point is selected on graph.
 
 ## License
 This project is licensed under the GNU General Public License - see the LICENSE.md file for details.
