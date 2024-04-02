@@ -11,7 +11,7 @@ Windows OS is currently supported. Linux and Mac OS compatibility and functional
 
 ### Execution
 
-Download the **.exe** file under the **Assets** foler and open the file. Windows OS will prompt a warning that it is protected by the PC since the program does not contain “signed code”. Select **More Info**, then select **Click Anyway**. 
+Download the **.exe** file under the **Assets** folder and open the file. Windows OS will prompt a warning that it is protected by the PC since the program does not contain “signed code”. Select **More Info**, then select **Click Anyway**. 
 
 ![More_info](./more_info.png)
 
